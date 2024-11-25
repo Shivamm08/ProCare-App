@@ -6,6 +6,7 @@ Built using Java for functionality and XML for the UI, ProCare was developed in 
 
 <img src="assets/homepage.png" alt="Homepage" width="350" />
 This is the app's loading screen. 
+<img src="assets/Sign_in.png" alt="Sign_in" width="350" />
 ![Project Diagram](assets/Sign_in.png)
 ![Project Diagram](assets/Sign_up.png)
 ![Project Diagram](assets/Main_page.png)
