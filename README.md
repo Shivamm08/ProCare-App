@@ -4,8 +4,7 @@ ProCare is an Android app developed during the Startupthon hackathon to provide 
 
 Built using Java for functionality and XML for the UI, ProCare was developed in Android Studio. Firebase was integrated for account authorization and database management, ensuring secure and seamless user interactions. Additionally, the app uses the Google Maps API to enable location-based services and real-time tracking of service providers. ProCare addresses challenges like trust, time efficiency, and transparency in the utility maintenance sector, offering a user-friendly interface and comprehensive service options. Future plans include adding advanced features like automated scheduling and expanding to multiple cities.
 
-![Project Diagram](assets/homepage.png)
-<img src="assets/homepage.png" alt="Homepage" width="400" />
+<img src="assets/homepage.png" alt="Homepage" width="200" />
 This is the app's loading screen. 
 ![Project Diagram](assets/Sign_in.png)
 ![Project Diagram](assets/Sign_up.png)
