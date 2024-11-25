@@ -23,4 +23,5 @@ This is the Profile Page, where users can view and update their personal informa
 <img src="assets/Settings.jpg" alt="Settings" width="350" /> 
 This is the Settings Page, providing access to various configurations
 
+
 These images showcase a selection of the app's key features, highlighting its functionality and user experience. The app includes additional features beyond those depicted here.
