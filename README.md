@@ -15,6 +15,12 @@ This is the Main Page of the app, where users can select one of the four service
 <img src="assets/Service_Provider_description.png" alt="Service_Provider_description" width="350" /> 
 This screen allows service providers to describe their services and set their prices.
 <img src="assets/Customer_request.png" alt="Customer_request" width="350" /> 
-This screen shows a customer sending a service request for plumbing, marking the location on the map. 
+This screen shows a customer sending a service request for pest control, marking the location on the map. 
 <img src="assets/Service_Provider_offer.png" alt="Service_Provider_offer" width="350" /> 
 This screen shows a service provider viewing the customer's request, with options to accept or reject it.
+<img src="assets/Profile_Page.jpg" alt="Profile Page" width="350" /> 
+This is the Profile Page, where users can view and update their personal information and preferences
+<img src="assets/Settings.jpg" alt="Settings" width="350" /> 
+This is the Settings Page, providing access to various configurations
+
+These images showcase a selection of the app's key features, highlighting its functionality and user experience. The app includes additional features beyond those depicted here.
